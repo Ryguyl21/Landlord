@@ -25,6 +25,11 @@
 #    extra3: 30
 #    extra4: 40
 #    extra5: 50
+#    extra6: 60
+#    extra7: 70
+#    extra8: 80
+#    extra9: 90
+#    extra10: 100
 # Economy settings (Requires Vault)
 # economy:
 #    #Enable economy integration features
